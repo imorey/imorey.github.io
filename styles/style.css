@@ -1,0 +1,22 @@
+
+body {
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.banner {
+	color: #FFFFFF;
+}
+
+.title {
+	float: left;
+	font-size: 200%;
+	width: 100%
+}
+
+.sub-title{
+	float: left;
+	font-size: 100%;
+	width: 100%
+}
+

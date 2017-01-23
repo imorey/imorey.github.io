@@ -1,22 +1,52 @@
 
 body {
-	background-repeat: no-repeat;
-	background-size: cover;
+	color: #000000;
+    margin: 0 auto;
+    border: 0;
+    padding-top: 6em;
 }
 
-.banner {
-	color: #FFFFFF;
+.container {
+  	padding: 0;
+  	text-align: center;
 }
 
 .title {
-	float: left;
-	font-size: 200%;
-	width: 100%
+	font-size: 3em;
+	letter-spacing: .25em
 }
 
-.sub-title{
-	float: left;
-	font-size: 100%;
-	width: 100%
+/*.subtitle {
+	padding-top: .2em;
+	padding-bottom: .5em;
+	font-size: 2em;
+	color: #B3CCFF;
+}*/
+
+ul {
+	padding-top: 2em;
+	padding-bottom: 1em;
+	padding-left: 0;
+	padding-right: 0;
+	list-style: none;
+	color: #B3CCFF;
+}
+
+li {
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+span {
+ 	font-size: 1.5em;	
+ 	letter-spacing: .25em
+}
+
+p { 
+	color: #000000;
+    display: none;
+    font-size: 1em;
+    letter-spacing: ;
+    letter-spacing: .15em
 }
 
